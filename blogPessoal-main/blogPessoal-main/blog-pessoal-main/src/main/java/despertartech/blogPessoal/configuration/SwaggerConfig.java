@@ -31,7 +31,7 @@ public class SwaggerConfig {
 							.email("arthur.pires.fumcad@despertar.org.br")))
 					.externalDocs(new ExternalDocumentation()
 							.description("Github")
-							.url("https://github.com/arthursousa10/blog-pessoal"));
+							.url("https://github.com/arthursoousa10/blog-pessoal"));
 	}
 	
 	

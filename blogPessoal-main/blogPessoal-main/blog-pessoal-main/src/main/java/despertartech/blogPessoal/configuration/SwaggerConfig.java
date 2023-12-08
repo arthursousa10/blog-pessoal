@@ -28,7 +28,7 @@ public class SwaggerConfig {
 					.contact(new Contact()
 							.name("Arthur Sousa Pires")
 							.url("https://github.com/arthursousa10")
-							.email("arthur.pires.fumcad@despertar.org.br")))
+							.email("arthur.sousa.pires@gmail.com")))
 					.externalDocs(new ExternalDocumentation()
 							.description("Github")
 							.url("https://github.com/arthursoousa10/blog-pessoal"));
